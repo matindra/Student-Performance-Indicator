@@ -20,6 +20,9 @@ class CustomException(Exception):
         return self.error_message
     
 
+
+
+#exception testing
 # if __name__=="__main__":
 
 #     try:
