@@ -18,7 +18,7 @@ class DataTransformationConfig:
 
 
 class DataTransformation:
-    def __init__(self) -> None:
+    def __init__(self):
         self.data_transformation_config = DataTransformationConfig()
 
     def get_data_transformer_object(self):
